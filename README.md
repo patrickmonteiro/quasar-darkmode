@@ -1,4 +1,4 @@
-# Quasr Dark Mode (quasar-darkmode)
+# Quasar Dark Mode (quasar-darkmode)
 
 A Quasar Framework app
 
