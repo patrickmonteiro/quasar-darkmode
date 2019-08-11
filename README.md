@@ -2,25 +2,20 @@
 
 A Quasar Framework app
 
-## Install the dependencies
+## Demo
+Demo online: [https://quasar-darkmode.surge.sh/](https://quasar-darkmode.surge.sh/)
+
+## Instalação das Dependências
 ```bash
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Iniciando o modo de desenvolvimento
 ```bash
 quasar dev
 ```
 
-### Lint the files
-```bash
-npm run lint
-```
-
-### Build the app for production
+### Gerando a build para produção
 ```bash
 quasar build
 ```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
